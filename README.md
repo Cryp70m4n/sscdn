@@ -1,0 +1,2 @@
+# sscdn
+Super simple CDN
